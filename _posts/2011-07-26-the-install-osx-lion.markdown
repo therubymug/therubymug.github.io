@@ -1,10 +1,11 @@
 ---
 title: The Install (Lion Edition)
 author: Rogelio J. Samour
-created_at: 2011-07-26 15:51:17.458279 -04:00
+created_at: 2011-07-26 15:51:17
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2011/07/26/the-install-osx-lion.html
 ---
 
 *update*: [2011-08-23] minor updates

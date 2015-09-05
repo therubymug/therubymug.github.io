@@ -1,11 +1,13 @@
 --- 
-title: 'Going Global with RVM Gemsets'
+title: Going Global with RVM Gemsets
 author: Rogelio J. Samour
-created_at: 2010-09-23 20:48:17.125931 -04:00
+created_at: 2010-09-23 20:48:17
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2010/09/23/going-global-with-rvm-gemsets.html
 --- 
+
 I wanted to share briefly on installing [global or default gems](https://rvm.io/gemsets/initial) in your rvm-controlled rubies. So here it is, say you wanted to always have a certain list of gems installed in all versions of ruby that your rvm controls. Right now you'd have to do something like this to install one or more gems in all your rubies:
 
 {% highlight bash %}

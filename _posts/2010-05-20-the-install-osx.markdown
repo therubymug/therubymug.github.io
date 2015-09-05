@@ -5,6 +5,7 @@ author: Rogelio J. Samour
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2010/05/20/the-install-osx.html
 ---
 
 `update 2011-07-26`: The Install (Lion Edition) can be found [here](http://blog.therubymug.com/blog/2011/07/26/the-install-osx-lion.html)

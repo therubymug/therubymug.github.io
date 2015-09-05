@@ -5,6 +5,7 @@ author: Rogelio J. Samour
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2010/04/20/engine-yard-cloud-and-resque-web.html
 ---
 
 So at [Hashrocket](http://hashrocket.com/), we've been deploying a number of apps to Engine Yard Cloud.

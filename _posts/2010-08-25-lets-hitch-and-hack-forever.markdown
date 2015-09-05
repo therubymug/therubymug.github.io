@@ -5,6 +5,7 @@ author: Rogelio J. Samour
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2010/08/25/lets-hitch-and-hack-forever.html
 ---
 
 I recently released `hitch` 0.6, a complete [rewrite](http://github.com/therubymug/hitch/tree/master) of the original `hitch`. We now have a test suite! :-) `hitch` is a Git author attribution helper for pair programmers. It will modify your git author name and email to reflect who you are pairing with.

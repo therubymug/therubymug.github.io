@@ -5,6 +5,7 @@ created_at: 2009-04-20 17:04:38
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2009/04/20/hitch.html
 ---
 
 At Hashrocket, we pair program all the time. In order to properly give credit to both programmers, we wrote a helper in the form of a gem. We called it [Hitch!](http://github.com/therubymug/hitch)

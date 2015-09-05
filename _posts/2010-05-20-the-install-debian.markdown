@@ -5,6 +5,7 @@ created_at: 2010-05-20 10:51:17
 layout: post
 categories: blog
 comments: true
+permalink: /blog/2010/05/20/the-install-debian.html
 ---
 ### Long story short
 
